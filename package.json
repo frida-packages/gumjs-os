@@ -12,9 +12,9 @@
     "/index.js"
   ],
   "type": "module",
-  "homepage": "https://github.com/frida/gumjs-os",
+  "homepage": "https://github.com/frida-packages/gumjs-os",
   "repository": {
     "type": "git",
-    "url": "https://github.com/frida/gumjs-os.git"
+    "url": "https://github.com/frida-packages/gumjs-os.git"
   }
 }
